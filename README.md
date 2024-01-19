@@ -17,3 +17,8 @@ In the rapidly evolving landscape of technology, I stay committed to a path of c
 ## 💼 Leadership at Unsolved.network
 As a co-founder of Unsolved.network, I have taken on the rewarding challenge of merging technical expertise with business acumen. This role has honed my skills in strategic planning, team leadership, and project management, all while keeping my hands firmly on the pulse of technological innovation. Leading Unsolved.network, I am committed to creating an environment that fosters creativity, collaboration, and excellence. My experience here has not only enriched my professional journey but also reinforced my belief in the power of technology to make a meaningful impact.
 
+## 📫 How to Reach Me
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/allendavis2911/) for work experiences, contact information, and more!
+
+## 🤝 Let's Connect!
+Always open to collaborating on interesting projects or just having a chat about technology and innovation!
