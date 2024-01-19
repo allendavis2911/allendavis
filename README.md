@@ -11,6 +11,9 @@ With a rich background in Ruby on Rails development, I've had the opportunity to
 - **Database**: PostgreSQL 🗃️
 - **Deployment**: AWS EC2 ☁️, Capistrano 🚀
 
+## 💡 Problem-Solving Wizardry
+I thrive on unraveling complex challenges, especially in the dynamic world of Ruby on Rails development. Whether it's fine-tuning code for peak performance, debugging intricate issues, or crafting resilient and scalable systems, I tackle each task with a solution-focused approach. My commitment to quality is unwavering, as I strive to transform every problem into an opportunity for innovation and excellence.
+
 ## 📘 Lifelong Learning
 In the rapidly evolving landscape of technology, I stay committed to a path of continuous learning. My role as a Full-Stack Ruby on Rails Developer requires not just technical proficiency but also an adaptive mindset to keep pace with the latest industry trends and advancements. I'm constantly refining my skills in Ruby on Rails, JavaScript, and other front-line technologies, ensuring that I bring the most current and effective solutions to every project. This dedication to lifelong learning is not just a professional necessity, but a personal passion that drives me to explore, innovate, and excel.
 
