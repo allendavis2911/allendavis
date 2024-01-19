@@ -1,4 +1,4 @@
-## Allen Davis - Full-Stack Ruby on Rails Developer💻
+## Allen Davis - Full-Stack Ruby on Rails Developer 💻
 
 ## 📌 About Me
 👋 **Hi there! I'm Allen**, an experienced Full-Stack Developer specialized in Ruby on Rails, with a knack for creating elegant and efficient web applications. My journey in tech has been driven by my passion for developing software that not only meets but exceeds client expectations.
